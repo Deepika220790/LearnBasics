@@ -1,0 +1,3 @@
+Technologies Name:
+SQL,Python
+JAVA
